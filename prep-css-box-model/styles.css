@@ -1,0 +1,19 @@
+/* stylelint-disable no-duplicate-selectors */
+body {
+  text-align: center;
+}
+
+button {
+  background-color: red;
+  color: white;
+
+  /* 👇 YOUR CODE HERE 👇 */
+}
+
+button {
+  margin: 20px;
+  padding: 10px;
+  border-style: 3px width;
+  border-style: double;
+  border-style: darkgray;
+}
