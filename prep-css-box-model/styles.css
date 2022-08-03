@@ -13,7 +13,7 @@ button {
 button {
   margin: 20px;
   padding: 10px;
-  border-style: 3px width;
+  border-width: 3px;
   border-style: double;
-  border-style: darkgray;
+  border-color: darkgray;
 }
